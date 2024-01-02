@@ -1,0 +1,3 @@
+POWERSHELL:
+
+Get-ChildItem -Path C:\Documents -Recurse -Force | unblock-file
